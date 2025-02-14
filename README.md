@@ -14,7 +14,7 @@ I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
   <img align="center" alt="Balta-Gitlab" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align="center" alt="Balta-GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />   
   <img align="center" alt="Balta-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Balta-GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Balta-Visual Studio" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" alt="Balta-GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </div>
 
