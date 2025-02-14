@@ -5,6 +5,7 @@
 ## Hi there 👋
 [![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats)
 -->
+[![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats)
 
 Welcome to my GitHub profile!
 I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
