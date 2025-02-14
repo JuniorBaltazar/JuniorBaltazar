@@ -12,10 +12,10 @@ I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
 <div style="display: inline_block">   
   <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img align="center" alt="Balta-Gitlab" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+  <img align="center" alt="Balta-GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />   
+  <img align="center" alt="Balta-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Balta-GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /><i class="devicon-github-original-wordmark"></i>
-          
-          
+  <img align="center" alt="Balta-GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </div>
 
 ##
