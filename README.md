@@ -1,5 +1,5 @@
-## Hi there 👋
 <!--
+## Hi there 👋
 [![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats)
 -->
 
