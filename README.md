@@ -5,7 +5,7 @@
 ## Hi there 👋
 [![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats)
 -->
-[![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats)
+[![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats%include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorBaltazar&hide_progress=false)
 
 Welcome to my GitHub profile!
