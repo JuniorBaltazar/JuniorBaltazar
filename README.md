@@ -20,8 +20,13 @@ I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
 
 ##
 
-<div>   
+<div>
+  <!--        
+  <a href="" target="_blank"><img src=""></a>
+   -->       
+  <a href="https://baltared.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/junior-baltazar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
 </div>
 
 <!--
