@@ -13,6 +13,8 @@ I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
   <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />          
 </div>
 
+##
+
 <div style="display: inline_block">   
   <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"
 </div>
