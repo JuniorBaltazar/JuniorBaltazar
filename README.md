@@ -10,7 +10,8 @@ Welcome to my GitHub profile!
 I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
 
 <div style="display: inline_block">   
-  <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />          
+  <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
 </div>
 
 ##
