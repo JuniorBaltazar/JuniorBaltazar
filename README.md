@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <!--
 ## Hi there 👋
 [![Baltazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorBaltazar)](https://github.com/JuniorBaltazar/github-readme-stats)
@@ -6,7 +9,8 @@
 Welcome to my GitHub profile!
 I'm Junior Baltazar I'm 27yo, born and raised in Fortaleza-CE ☀️.
 
-<div style="display: inline_block">  
+<div style="display: inline_block">   
+  <i class="devicon-unity-plain-wordmark"></i>          
   <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" />          
   <img align="center" alt="Balta-Unity" height="30" widht="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"
 </div>
